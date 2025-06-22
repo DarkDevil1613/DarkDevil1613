@@ -15,3 +15,8 @@
 📈 Goal: Learn consistently, build publicly, and apply skills to grow.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-goday-196916340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## Webinar Certificates
+
+- **Android UI Design with Kotlin** – Tops Technologies – June 2025
+view:-- [https://drive.google.com/file/d/1vBlCorYvuTvRZwdioxuOjVXN7bhVtyio/view?usp=drivesdk]
