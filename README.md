@@ -19,4 +19,4 @@
 ## Webinar Certificates
 
 - **Android UI Design with Kotlin** – Tops Technologies – June 2025
-(view certificate!)[https://drive.google.com/file/d/1vBlCorYvuTvRZwdioxuOjVXN7bhVtyio/view?usp=drivesdk]
+[view certificate!](https://drive.google.com/file/d/1vBlCorYvuTvRZwdioxuOjVXN7bhVtyio/view?usp=drivesdk)
