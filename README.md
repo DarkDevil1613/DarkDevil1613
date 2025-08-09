@@ -1,22 +1,37 @@
-# 👋 Hi, I'm Mr. Rohit (Darkdevil1613)
+# 👋 Hi, I'm **Mr. Rohit** (DarkDevil1613)  
 
-🎓 2nd Year BTech Student | Passionate C/Java Learner | Future RBI Tech Officer Aspirant
+🎓 **2nd Year BTech CSE Student** | 💻 **Passionate Programmer**  
 
-💻 Learning:
-- C Programming (✅ Certified)
-- Java (Currently Learning)
-- Python, Web Dev (Upcoming)
+---
 
-📁 This repo will include:
-- My certificates
-- My monthly mini projects
-- Webinars and learning logs
+## 🚀 About Me  
+- 📚 Certified in **C Programming**  
+- 📖 Currently learning **Java**  
+- 🌱 Upcoming skills: **Python** & **Web Development**  
+- 📅 Consistent learner with a focus on **projects** & **practical application**  
 
-📈 Goal: Learn consistently, build publicly, and apply skills to grow.
+---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-goday-196916340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 📂 What You'll Find in This Repo  
+- 🏆 **Certificates** from courses & webinars  
+- 🛠 **Monthly mini projects** (C, Java, Python, Web)  
+- 📜 **Learning logs** & progress updates  
 
-## Webinar Certificates
+---
 
-- **Android UI Design with Kotlin** – Tops Technologies – June 2025
-[view certificate!](https://drive.google.com/file/d/1vBlCorYvuTvRZwdioxuOjVXN7bhVtyio/view?usp=drivesdk)
+## 📈 My Goal  
+> _"Learn consistently, build publicly, and apply skills to grow."_  
+
+- 💡 Build projects that solve real problems  
+- 📤 Share learning journey openly  
+- 🏗 Create a strong portfolio for future opportunities  
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Goday-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-goday-196916340)  
+[![GitHub](https://img.shields.io/badge/GitHub-DarkDevil1613-black?style=for-the-badge&logo=github)](https://github.com/DarkDevil1613)  
+
+---
+
+💬 _“Code. Learn. Share. Repeat.”_
