@@ -1,36 +1,35 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     DARKDEVIL1613 — README.md                  -->
+<!--                     DarkDevil1613 — README.md                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-██████╗  █████╗ ██████╗ ██╗  ██╗██████╗ ███████╗██╗   ██╗██╗██╗      ██╗ ██████╗ ██╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║   ██║██║██║     ███║██╔════╝███║██╔════╝
-██║  ██║███████║██████╔╝█████╔╝ ██║  ██║█████╗  ██║   ██║██║██║     ╚██║███████╗╚██║███████╗
-██║  ██║██╔══██║██╔══██╗██╔═██╗ ██║  ██║██╔══╝  ╚██╗ ██╔╝██║██║      ██║██╔═══╝  ██║╚════██║
-██████╔╝██║  ██║██║  ██║██║  ██╗██████╔╝███████╗ ╚████╔╝ ██║███████╗ ██║╚██████╗ ██║██████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝╚═════╝
+ ______     ______     __  __     __     ______  
+/\  == \   /\  __ \   /\ \_\ \   /\ \   /\__  _\ 
+\ \  __<   \ \ \/\ \  \ \  __ \  \ \ \  \/_/\ \/ 
+ \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_\    \ \_\ 
+  \/_/ /_/   \/_____/   \/_/\/_/   \/_/     \/_/ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Mr.+Rohit+%7C+DarkDevil1613;BTech+CSE+%7C+2nd+Year;Code.+Learn.+Build.+Repeat.;Turning+Coffee+into+Code+%E2%98%95;Future+Full-Stack+Dev+%F0%9F%9A%80" alt="Typing SVG" />
+### `< MR. ROHIT />` · `[ DarkDevil1613 ]`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mr.+Rohit+%F0%9F%91%8B;BTech+CSE+%7C+2nd+Year;Code.+Learn.+Build.+Repeat.;Turning+Coffee+into+Code+%E2%98%95;Future+Full-Stack+Dev+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Goday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-goday-196916340)
-[![GitHub](https://img.shields.io/badge/GitHub-DarkDevil1613-181717?style=for-the-badge&logo=github&logoColor=lime)](https://github.com/DarkDevil1613)
+[![GitHub](https://img.shields.io/badge/GitHub-DarkDevil1613-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkDevil1613)
 ![Profile Views](https://komarev.com/ghpvc/?username=DarkDevil1613&style=for-the-badge&color=00FF41&label=VISITORS)
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `~/whoami`
 
 ```bash
-┌──(DarkDevil1613㉿matrix)-[~]
+┌──(MrRohit㉿matrix)-[~]
 └─$ cat about.txt
 
   Name     : Mr. Rohit
@@ -40,13 +39,11 @@
   Mission  : Code Consistently. Build Publicly. Grow Relentlessly.
   Mindset  : Every bug is a lesson. Every project is a step forward.
 
-┌──(DarkDevil1613㉿matrix)-[~]
+┌──(MrRohit㉿matrix)-[~]
 └─$ █
 ```
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `~/skills --list`
 
@@ -63,12 +60,15 @@
 
 ---
 
-### 🔄 Currently Downloading...
+### 🔄 Currently Learning
 
-```
-[##########··········]  50%  Advanced Web Development (HTML · CSS · JS)
-[######··············]  30%  MySQL — Database Wizardry
-[####················]  20%  PHP — Server-Side Scripting
+```bash
+┌──(MrRohit㉿matrix)-[~/learning]
+└─$ ls -active
+
+  ► Advanced Web Development  (HTML · CSS · JavaScript)
+  ► MySQL                     (Database Design & Queries)
+  ► PHP                       (Server-Side Scripting)
 ```
 
 ---
@@ -84,12 +84,10 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `~/ls -la ./this-repo`
 
 ```
-drwxr-xr-x  DarkDevil1613  ./
+drwxr-xr-x  MrRohit  ./
 ├── 🏆  /certificates      → Verified course & webinar completions
 ├── 🛠️  /mini-projects     → C • Java • Web Dev experiments
 ├── 📜  /learning-logs     → Progress updates & notes
@@ -99,8 +97,6 @@ drwxr-xr-x  DarkDevil1613  ./
 > 💡 This repo is my **public build log** — raw, real, and always evolving.
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `~/goals.sh --execute`
 
@@ -119,8 +115,6 @@ for goal in goals:
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 <div align="center">
 
 ### `> FINAL TRANSMISSION`
@@ -131,7 +125,7 @@ for goal in goals:
 ║    "Learn consistently. Build publicly.          ║
 ║     Apply skills to grow."                       ║
 ║                                                  ║
-║         — DarkDevil1613                          ║
+║              — Mr. Rohit  aka  DarkDevil1613     ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
