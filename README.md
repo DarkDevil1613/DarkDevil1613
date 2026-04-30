@@ -4,11 +4,12 @@
 
 <div align="center">
 
-<!-- JARVIS HUD top bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&pause=99999&color=00BFFF&center=true&vCenter=true&width=700&height=30&lines=◦+◦+◦+JARVIS+HUD+ACTIVE+◦+UNIT%3A+DARKDEVIL1613+◦+STATUS%3A+ONLINE+◦+◦+◦" alt="HUD Top" />
+<div align="center">
 
-<!-- Scanning line effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=13&pause=99999&color=00BFFF&center=true&vCenter=true&width=700&height=22&lines=●+JARVIS+INTERFACE+v2.0+●+SYSTEM+ONLINE+●+IDENTITY+VERIFIED+●+CLEARANCE%3A+ALPHA" alt="JARVIS HUD" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30&text=--+JARVIS+HUD+ACTIVE+--+UNIT:+DARKDEVIL1613+--+STATUS:+ONLINE+--&fontColor=00BFFF&fontSize=12&fontAlign=50&fontAlignY=65&fontFamily=Share+Tech+Mono" width="100%" alt="HUD Top"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=24&text=JARVIS+INTERFACE+v2.0+|+SYSTEM+ONLINE+|+IDENTITY+VERIFIED+|+CLEARANCE:+ALPHA&fontColor=00BFFF&fontSize=11&fontAlign=50&fontAlignY=65" width="100%" alt="JARVIS HUD"/>
 
 <!-- Main Name Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=99999&color=00BFFF&center=true&vCenter=true&width=700&height=120&lines=MR.+ROHIT" alt="Mr. Rohit" />
@@ -27,10 +28,10 @@
 <br/>
 
 <!-- UPDATED LINKS: LinkedIn, GitHub, Email, Instagram -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Goday-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/rohit-goday-196916340)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Goday-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/rohitgoday)
 [![GitHub](https://img.shields.io/badge/GitHub-DarkDevil1613-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/DarkDevil1613)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-FF6600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:your.email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-FF6600?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://instagram.com/your_handle)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-FF6600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:rohitwork1613@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-FF6600?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://www.instagram.com/i_am_rohit1612?utm_source=qr&igsh=MXZ5bng1aGkzZTYyMQ==)
 
 <br/>
 
@@ -168,7 +169,7 @@ for goal in goals:
 ╚══════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&pause=99999&color=00BFFF&center=true&vCenter=true&width=700&height=30&lines=◦+◦+◦+END+OF+TRANSMISSION+◦+SYSTEM+STANDBY+◦+◦+◦" alt="HUD Bottom" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30&text=--+END+OF+TRANSMISSION+--+SYSTEM+STANDBY+--&fontColor=00BFFF&fontSize=12&fontAlign=50&fontAlignY=65" width="100%" alt="HUD Bottom"/>
 
 ⭐ *If anything here sparked something in you — drop a star. It fuels the grind.* 🚀
 
