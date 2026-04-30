@@ -5,11 +5,10 @@
 <div align="center">
 
 ```
- ______     ______     __  __     __     ______  
-/\  == \   /\  __ \   /\ \_\ \   /\ \   /\__  _\ 
-\ \  __<   \ \ \/\ \  \ \  __ \  \ \ \  \/_/\ \/ 
- \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_\    \ \_\ 
-  \/_/ /_/   \/_____/   \/_/\/_/   \/_/     \/_/ 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=99999&color=00FF41&center=true&vCenter=true&width=700&height=120&lines=MR.+ROHIT" alt="Mr. Rohit" />
+
+### `< MR. ROHIT />` · `[ DarkDevil1613 ]`
 ```
 
 ### `< MR. ROHIT />` · `[ DarkDevil1613 ]`
