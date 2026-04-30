@@ -4,13 +4,11 @@
 
 <div align="center">
 
-```
 <div align="center">
 
 ![Mr. Rohit](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=MR.%20ROHIT&fontSize=70&fontColor=000000&fontAlignY=40&desc=DarkDevil1613%20%7C%20BTech%20CSE%20%7C%202nd%20Year&descAlignY=65&descSize=16&animation=fadeIn&fontFamily=courier)
 
 ### `< MR. ROHIT />` · `[ DarkDevil1613 ]`
-```
 
 ### `< MR. ROHIT />` · `[ DarkDevil1613 ]`
 
