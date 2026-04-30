@@ -4,11 +4,7 @@
 
 <div align="center">
 
-<div align="center">
-
-![Mr. Rohit](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=MR.%20ROHIT&fontSize=70&fontColor=000000&fontAlignY=40&desc=DarkDevil1613%20%7C%20BTech%20CSE%20%7C%202nd%20Year&descAlignY=65&descSize=16&animation=fadeIn&fontFamily=courier)
-
-### `< MR. ROHIT />` · `[ DarkDevil1613 ]`
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=99999&color=00FF41&center=true&vCenter=true&width=700&height=120&lines=MR.+ROHIT" alt="Mr. Rohit" />
 
 ### `< MR. ROHIT />` · `[ DarkDevil1613 ]`
 
