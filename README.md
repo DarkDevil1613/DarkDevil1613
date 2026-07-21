@@ -49,7 +49,7 @@
 
   Name     : Mr. Rohit
   Alias    : DarkDevil1613
-  Role     : BTech CSE Student — 2nd Year
+  Role     : BTech CSE Student — 3rd Year
   Status   : Actively Learning & Building
   Mission  : Code Consistently. Build Publicly. Grow Relentlessly.
   Mindset  : Every bug is a lesson. Every project is a step forward.
