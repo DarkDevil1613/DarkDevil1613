@@ -18,7 +18,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=99999&color=FF6600&center=true&vCenter=true&width=700&height=24&lines=%E2%96%B6+DARKDEVIL1613+%7C+SUIT+UP.+CODE+UP.+LEVEL+UP.+%E2%97%80" alt="Subtitle" />
 
 <!-- Typing roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mr.+Rohit+%F0%9F%91%8B;BTech+CSE+%7C+2nd+Year;Code.+Learn.+Build.+Repeat.;Turning+Coffee+into+Code+%E2%98%95;Future+Full-Stack+Dev+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mr.+Rohit+%F0%9F%91%8B;BTech+CSE+%7C+3rd+Year;Code.+Learn.+Build.+Repeat.;Turning+Coffee+into+Code+%E2%98%95;Future+Full-Stack+Dev+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
